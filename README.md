@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**marks80/marks80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 Recent Achievement: AWS Cloud Quest: Cloud Practitioner
 
-Here are some ideas to get you started:
+I am excited to share that I have earned the **AWS Cloud Quest: Cloud Practitioner** badge! This certification demonstrates my foundational understanding of cloud computing concepts and AWS services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![AWS Cloud Quest: Cloud Practitioner Badge](https://images.credly.com/size/680x680/images/9dbcd225-7dc6-4465-af44-0d7de72d4a1b/AWS_Cloud_Quest_-_Cloud_Practitioner.png)
+
+🔗 **[View my verified badge here](https://www.credly.com/badges/9dbcd225-7dc6-4465-af44-0d7de72d4a1b/public_url)**
+
+### Explore My Work:
+Check out my repositories to see how I apply cloud computing knowledge in real-world projects:
+- 🚀 [System Monitoring Dashboard](https://github.com/marks80/system-monitoring-dashboard)
+- 🛠️ [Bootcamp Projects](https://github.com/marks80/Bootcamp2025)
+
+---
+
+📫 **Let's Connect!**
+- **GitHub**: [https://github.com/marks80](https://github.com/marks80)
