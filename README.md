@@ -1,19 +1,32 @@
 # Welcome to My GitHub Profile! 👋
 
-## 🏆 Recent Achievement: AWS Cloud Quest: Cloud Practitioner
+🏆 Recent Achievement: Snowflake Hands-On Essentials: Data Warehouse
+I am thrilled to share that I have earned the Snowflake Hands-On Essentials: Data Warehouse badge! 🏅 This achievement validates my ability to work with Snowflake Data Warehouse, including:
+✔ Creating, editing, and loading Snowflake tables
+✔ Defining and using file formats
+✔ Managing compute resources in Snowflake
+✔ Writing and executing COPY INTO statements
+✔ Transforming, parsing, and loading CSV and JSON data
 
-I am excited to share that I have earned the **AWS Cloud Quest: Cloud Practitioner** badge! This certification demonstrates my foundational understanding of cloud computing concepts and AWS services.
+🎖 My Verified Badge:
 
-![AWS Cloud Quest: Cloud Practitioner Badge](https://images.credly.com/size/680x680/images/9dbcd225-7dc6-4465-af44-0d7de72d4a1b/AWS_Cloud_Quest_-_Cloud_Practitioner.png)
+https://achieve.snowflake.com/7e0c6f79-7d74-46d1-a686-2878d9cefee7#acc.lMJTGBYE
 
-🔗 **[View my verified badge here](https://www.credly.com/badges/9dbcd225-7dc6-4465-af44-0d7de72d4a1b/public_url)**
 
-### Explore My Work:
-Check out my repositories to see how I apply cloud computing knowledge in real-world projects:
-- 🚀 [System Monitoring Dashboard](https://github.com/marks80/system-monitoring-dashboard)
-- 🛠️ [Bootcamp Projects](https://github.com/marks80/Bootcamp2025)
+🏆 Previous Achievement: AWS Cloud Quest: Cloud Practitioner
+I have also earned the AWS Cloud Quest: Cloud Practitioner badge, demonstrating my foundational understanding of cloud computing concepts and AWS services.
 
----
+🎖 My Verified Badge:
 
-📫 **Let's Connect!**
-- **GitHub**: [https://github.com/marks80](https://github.com/marks80)
+ https://www.credly.com/badges/9dbcd225-7dc6-4465-af44-0d7de72d4a1b/public_url
+
+🚀 Explore My Work
+Check out my repositories to see my work with Snowflake and AWS Cloud projects:
+
+📊 Snowflake Data Pipeline – End-to-end Snowflake ETL workflow
+🚀 System Monitoring Dashboard – AWS-based real-time monitoring system
+🛠 Bootcamp Projects – Cloud and data engineering challenges
+📫 Let's Connect!
+
+GitHub: https://github.com/marks80
+LinkedIn: https://linkedin.com/in/marks80
