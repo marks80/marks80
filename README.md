@@ -29,4 +29,4 @@ Check out my repositories to see my work with Snowflake and AWS Cloud projects:
 📫 Let's Connect!
 
 GitHub: https://github.com/marks80
-LinkedIn: https://linkedin.com/in/marks80
+LinkedIn: https://www.linkedin.com/in/marks-saulevics/
