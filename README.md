@@ -1,32 +1,25 @@
 # Welcome to My GitHub Profile! 👋
 
-🏆 Recent Achievement: Snowflake Hands-On Essentials: Data Warehouse
-I am thrilled to share that I have earned the Snowflake Hands-On Essentials: Data Warehouse badge! 🏅 This achievement validates my ability to work with Snowflake Data Warehouse, including:
-✔ Creating, editing, and loading Snowflake tables
-✔ Defining and using file formats
-✔ Managing compute resources in Snowflake
-✔ Writing and executing COPY INTO statements
-✔ Transforming, parsing, and loading CSV and JSON data
+Verified Badge:
 
-🎖 My Verified Badge:
+AWS Certified Cloud Practitioner (Earned: April 20, 2025). https://www.credly.com/badges/13bd3b27-838f-4ff4-9428-891391f8d284/public_url
+This certification demonstrates my comprehensive understanding of AWS cloud concepts, services, security, architecture, pricing, and support.
 
+
+
+Verified Badge:
+
+AWS Cloud Quest: Cloud Practitioner
+https://www.credly.com/badges/9dbcd225-7dc6-4465-af44-0d7de72d4a1b/public_url
+
+Verified Badge:
+
+Snowflake Hands-On Essentials: Data Warehouse
 https://achieve.snowflake.com/7e0c6f79-7d74-46d1-a686-2878d9cefee7#acc.lMJTGBYE
 
+Check out my repositories to see my work. 
 
-🏆 Previous Achievement: AWS Cloud Quest: Cloud Practitioner
-I have also earned the AWS Cloud Quest: Cloud Practitioner badge, demonstrating my foundational understanding of cloud computing concepts and AWS services.
-
-🎖 My Verified Badge:
-
- https://www.credly.com/badges/9dbcd225-7dc6-4465-af44-0d7de72d4a1b/public_url
-
-🚀 Explore My Work
-Check out my repositories to see my work with Snowflake and AWS Cloud projects:
-
-📊 Snowflake Data Pipeline – End-to-end Snowflake ETL workflow
-🚀 System Monitoring Dashboard – AWS-based real-time monitoring system
-🛠 Bootcamp Projects – Cloud and data engineering challenges
-📫 Let's Connect!
+Let's Connect!
 
 GitHub: https://github.com/marks80
 LinkedIn: https://www.linkedin.com/in/marks-saulevics/
